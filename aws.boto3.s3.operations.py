@@ -18,10 +18,7 @@
 # 13. Ensure you have the necessary permissions to get bucket policy.
 # 14. Ensure you have the necessary permissions to put bucket policy.
 # 15. Ensure you have the necessary permissions to get bucket versioning.
-# 16. Ensure you have the necessary permissions to put bucket versioning.
-# 17. Ensure you have the necessary permissions to get bucket lifecycle configuration.
-# 18. Ensure you have the necessary permissions to put bucket lifecycle configuration.
-# 19. Ensure you have the necessary permissions to get bucket logging.
+
 
 
 
