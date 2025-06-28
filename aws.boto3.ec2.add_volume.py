@@ -6,6 +6,9 @@ from utils.config_loader import ConfigLoader
 env = 'dev'
 cfg = ConfigLoader(env)
 
+
+
+
 ec2_config = cfg.get('ec2')
 if ec2_config is None:
     raise ValueError("❌ 'ec2' section not found in configuration.")

@@ -61,20 +61,6 @@ except Exception as e:
 
 
 
-# Wait for instance to be running
-try:
-    waiter = ec2_client.get_waiter('instance_running')
-    waiter.wait(InstanceIds=[instance_id])
-    print(f"Instance {instance_id} is now running.")
-    logging.info(f"Instance {instance_id} is now running.")
-except Exception as e:
-    error_msg = f"Failed to wait for instance to be running: {str(e)}"
-    print(error_msg)
-    logging.error(error_msg)    
-
-
-
-
 
 # Add volume to the instance
 try:
