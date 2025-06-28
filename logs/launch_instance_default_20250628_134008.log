@@ -1,2 +1,0 @@
-2025-06-28 13:40:08,817 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
-2025-06-28 13:40:09,277 - ERROR - Failed to launch EC2 instance: An error occurred (InvalidSubnetID.NotFound) when calling the RunInstances operation: The subnet ID 'subnet-09189043d3d8da20b' does not exist

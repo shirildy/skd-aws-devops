@@ -1,2 +1,0 @@
-2025-06-28 15:00:55,342 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
-2025-06-28 15:00:55,914 - ERROR - Failed to launch EC2 instance: An error occurred (InvalidKeyPair.NotFound) when calling the RunInstances operation: The key pair 'aws-boto3-key-pair' does not exist

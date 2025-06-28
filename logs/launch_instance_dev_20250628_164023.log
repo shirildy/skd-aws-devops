@@ -1,5 +1,0 @@
-2025-06-28 16:40:23,919 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
-2025-06-28 16:40:25,013 - INFO - Launched instance 'i-01e3c861f0bc0483b' in dev environment.
-2025-06-28 16:40:40,281 - INFO - Instance i-01e3c861f0bc0483b is now running.
-2025-06-28 16:40:40,711 - INFO - Created volume 'vol-0b1b82ce5e4c17552' in dev environment.
-2025-06-28 16:40:41,236 - ERROR - Failed to create or attach volume: An error occurred (IncorrectState) when calling the AttachVolume operation: vol-0b1b82ce5e4c17552 is not 'available'.

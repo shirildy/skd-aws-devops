@@ -1,2 +1,0 @@
-2025-06-28 15:04:16,626 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
-2025-06-28 15:04:17,332 - ERROR - Failed to launch EC2 instance: An error occurred (Unsupported) when calling the RunInstances operation: The requested configuration is currently not supported. Please check the documentation for supported configurations.

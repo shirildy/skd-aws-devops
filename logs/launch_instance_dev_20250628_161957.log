@@ -1,3 +1,0 @@
-2025-06-28 16:19:57,387 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
-2025-06-28 16:19:58,414 - INFO - Launched instance 'i-0a9de516203c6f462' in dev environment.
-2025-06-28 16:19:59,161 - ERROR - Failed to create or attach volume: An error occurred (IncorrectState) when calling the AttachVolume operation: Instance 'i-0a9de516203c6f462' is not 'running'.
