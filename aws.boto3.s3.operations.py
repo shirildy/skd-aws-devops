@@ -21,9 +21,6 @@
 
 
 
-
-
-
 # This script demonstrates how to use the Boto3 library to interact with AWS services.
 import boto3    
       

@@ -1,0 +1,5 @@
+2025-06-28 16:45:04,336 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-06-28 16:45:05,493 - INFO - Launched instance 'i-0ad15476173ae5088' in dev environment.
+2025-06-28 16:45:20,774 - INFO - Instance i-0ad15476173ae5088 is now running.
+2025-06-28 16:45:21,265 - INFO - Created volume 'vol-0da51ca6fab1a8b28' in dev environment.
+2025-06-28 16:45:36,934 - INFO - Attached volume 'vol-0da51ca6fab1a8b28' to instance 'i-0ad15476173ae5088'.

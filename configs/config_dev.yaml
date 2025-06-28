@@ -1,0 +1,23 @@
+# File: configs/config_dev.yaml
+# This file contains configuration settings for the AWS Boto3 EC2 operations in a development environment
+# It includes details such as region, VPC ID, subnet ID, security group ID,
+# key pair name, AMI ID, and instance type.
+# The settings are used to launch EC2 instances with the specified configurations.
+
+
+
+ec2:
+    PROFILE_NAME: 'dev'
+    REGION_NAME: ap-southeast-4
+    VPC_ID: 'vpc-0ebbe718d3b00519d'
+    SUBNET_ID: subnet-059c161e62c79ddb6         #AWS VPC NAME : aws-boto3-subnet-dev
+    SECURITY_GROUP_ID: sg-00726847a3bbac4c8    #AWS Security Group Name : aws-boto3-security-group-dev
+    KEY_PAIR_NAME: 'aws-boto3-dev-kp'
+    AMI_ID: 'ami-0e3f1dd96ca4f22ad'
+    INSTANCE_TYPE: t3.micro
+
+  
+  
+  
+
+

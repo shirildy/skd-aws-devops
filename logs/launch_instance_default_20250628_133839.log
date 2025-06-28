@@ -1,0 +1,2 @@
+2025-06-28 13:38:39,708 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-06-28 13:38:40,064 - ERROR - Failed to launch EC2 instance: An error occurred (InvalidAMIID.NotFound) when calling the RunInstances operation: The image id '[ami-078772dab3242ee11]' does not exist
