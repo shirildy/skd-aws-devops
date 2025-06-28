@@ -1,6 +1,7 @@
 
 #prerequisites:
 # 1. Install Boto3: pip install boto3
+# 1. Install Boto3: pip install boto3
 # 2. Configure AWS credentials: aws configure
 #    - Enter your AWS Access Key ID
 #    - Enter your AWS Secret Access Key
