@@ -1,4 +1,4 @@
-#Author : SHiril K Dubey
+#Author : SHiril K Dubey , updated
 #Date : 2023-10-30
 #description : This script is used to create a subnet in AWS using Boto3
 #VPC : Virtual Private Cloud
